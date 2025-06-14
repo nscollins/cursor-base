@@ -12,10 +12,12 @@ This repo contains two template variants:
 ### Basic Template
 ```bash
 git clone -b main https://github.com/nscollins/cursor-base.git basic-app
+```
 
 ### PWA Template
 ```bash
 git clone -b main https://github.com/nscollins/cursor-base.git pwa-app
+```
 
 ## Getting Started
 
